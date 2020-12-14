@@ -1,4 +1,4 @@
-# CONVJSSP: Convolutional Learning for Job-Shop Scheduling Problems
+# ConvJSSP: Convolutional Learning for Job-Shop Scheduling Problems
 
 ---
 
